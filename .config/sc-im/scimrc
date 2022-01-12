@@ -1,0 +1,47 @@
+set overlap
+
+# use gg/G to jump within a column
+nnoremap "gg" "^"
+nnoremap "^" "gg"
+nnoremap "G" "#"
+nnoremap "#" "G"
+
+# gruvbox-dark-medium
+# define_color "base16_gui00" 40 40 40
+# define_color "base16_gui01" 60 56 54
+# define_color "base16_gui02" 80 73 69
+# define_color "base16_gui03" 102 92 84
+# define_color "base16_gui04" 189 174 147
+# define_color "base16_gui05" 213 196 161
+# define_color "base16_gui06" 235 219 178
+# define_color "base16_gui07" 251 241 199
+# define_color "base16_gui08" 251 73 52
+# define_color "base16_gui09" 254 128 25
+# define_color "base16_gui0A" 250 189 47
+# define_color "base16_gui0B" 184 187 38
+# define_color "base16_gui0C" 190 192 124
+# define_color "base16_gui0D" 131 165 152
+# define_color "base16_gui0E" 211 134 155
+# define_color "base16_gui0F" 214 93 14
+
+# color "type=HEADINGS fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+# color "type=HEADINGD_ODD fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+# color "type=MODE fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=NUMB fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=STRG fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=DATEF fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=EXPRESSION fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=GRID_PAIR fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=GRID_ODD fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_ERROR fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_NEGATIVE fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_SELECTION fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_SELECTION_SC fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=INFO_MSG fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=ERROR_MSG fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_ID fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_FORMAT fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=CELL_CONTENT fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=WELCOME fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=NORMAL fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
+#color "type=INPUT fg=DEFAULT_COLOR bg=DEFAULT_COLOR"
